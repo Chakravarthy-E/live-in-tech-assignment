@@ -15,7 +15,13 @@ function WhyStudio() {
           </p>
         </div>
       </div>
-      <div className="w-1/2"></div>
+      <div className="w-1/2">
+        <video
+          src="https://media.istockphoto.com/id/1752533608/video/high-five-business-people-and-teamwork-with-collaboration-and-celebration-in-a-office-with.mp4?s=mp4-640x640-is&k=20&c=gyLwIv9faT9EUS3KFvUYcshBt6qFJeNHlOUBl3jZEFk="
+          autoPlay
+          typeof="video/mp4"
+        ></video>
+      </div>
     </div>
   );
 }

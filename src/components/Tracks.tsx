@@ -16,7 +16,13 @@ function Tracks() {
           </button>
         </div>
       </div>
-      <div className="w-1/2"></div>
+      <div className="w-1/2">
+        <video
+          src="https://media.istockphoto.com/id/1478040273/video/team-of-multiethnic-indian-software-engineers-having-a-meeting-in-order-to-review-the-code.mp4?s=mp4-640x640-is&k=20&c=lt2cRDcQaXG_BTcPX0-onaRcuEoDrxnYMjQUtgJEfXE="
+          autoPlay
+          typeof="video/mp4"
+        ></video>
+      </div>
     </div>
   );
 }
