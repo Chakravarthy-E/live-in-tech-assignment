@@ -1,6 +1,6 @@
 function Navbar() {
   return (
-    <nav className="px-5 py-5 flex items-center justify-between">
+    <nav className="px-5 py-2 flex items-center justify-between fixed w-full z-50 bg-white">
       <div className="uppercase tracking-widest font-bold text-xl">
         LiveInTech
       </div>
